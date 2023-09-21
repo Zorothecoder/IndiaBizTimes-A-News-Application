@@ -18,7 +18,7 @@ IndiaBizTimes is a responsive web application that provides the latest top headl
 
 To fetch news data from the GNews API, follow these steps:
 
-1. **Obtain an API Key**: Register on the [GNews API website](https://gnews.io/docs/) to obtain your API key.
+1. **Obtain an API Key**: Register on the [GNews API website](https://gnews.io) to obtain your API key.
 
 2. **Make API Requests**: Use your API key to make HTTP requests to the GNews API endpoint. For example, to get top headlines from India:
 
