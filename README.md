@@ -1,3 +1,15 @@
+# IndiaBizTimes - India's Top Headlines
+
+**Website URL:** [https://zorothecoder.github.io/IndiaBizTimes-A-News-Application/](https://zorothecoder.github.io/IndiaBizTimes-A-News-Application/)
+
+![Screenshot (133)](https://github.com/Zorothecoder/IndiaBizTimes-A-News-Application/assets/141945518/4a0d6c88-3c50-48ff-b891-da6e216e4453)
+![Screenshot (135)](https://github.com/Zorothecoder/IndiaBizTimes-A-News-Application/assets/141945518/53dff826-91a4-4dce-adbe-00aea0e87e1d)
+![Screenshot (136)](https://github.com/Zorothecoder/IndiaBizTimes-A-News-Application/assets/141945518/97a04e8b-2693-4846-884e-7f15d495e946)
+![Screenshot (137)](https://github.com/Zorothecoder/IndiaBizTimes-A-News-Application/assets/141945518/2a98e888-f1a3-498c-8e4a-ad251ecccde2)
+
+# Introduction
+IndiaBizTimes is a responsive web application that provides the latest top headlines from India across various categories. With features like dark mode, it offers a user-friendly and customizable news browsing experience.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
