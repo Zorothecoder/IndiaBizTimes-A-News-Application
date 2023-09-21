@@ -10,6 +10,22 @@
 # Introduction
 IndiaBizTimes is a responsive web application that provides the latest top headlines from India across various categories. With features like dark mode, it offers a user-friendly and customizable news browsing experience.
 
+## News Data from GNews API
+
+**IndiaBizTimes** sources its news articles from the GNews API, providing you with up-to-date information from various sources.
+
+### Getting News Data
+
+To fetch news data from the GNews API, follow these steps:
+
+1. **Obtain an API Key**: Register on the [GNews API website](https://gnews.io/docs/) to obtain your API key.
+
+2. **Make API Requests**: Use your API key to make HTTP requests to the GNews API endpoint. For example, to get top headlines from India:
+
+   ```bash
+   curl "https://gnews.io/api/v4/top-headlines?country=in&token=YOUR_API_KEY"
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
