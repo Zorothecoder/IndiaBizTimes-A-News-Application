@@ -1,255 +1,125 @@
-// https://newsdata.io/api/1/news?country=in&category=business&apikey=pub_298559fccd35e8bea118deb4f875400390b33
 {
-    "status": "success",
-    "totalResults": 526,
-    "results": [
+    "totalArticles": 78125,
+    "articles": [
         {
-            "article_id": "500a1d3723ee4428bb594a0f385dc8de",
-            "title": "HTech launches powerful yet eye friendly ‘HONOR90 5G’ Smartphone in India",
-            "link": "https://bilkulonline.com/2023/09/21/htech-brings-latest-tech-and-eye-friendly-honor90-5g-in-india/",
-            "keywords": [
-                "Business",
-                "Featured",
-                "Technology"
-            ],
-            "creator": [
-                "BILKUL ONLINE"
-            ],
-            "video_url": null,
-            "description": "HONOR90 sets new standards for comfortable viewing and creative freedom BILKULONLINE Ahmedabad, Sept 21: HTech, a comprehensive solutions provider, announced the The post HTech launches powerful yet eye friendly ‘HONOR90 5G’ Smartphone in India appeared first on Bilkul Online.",
-            "content": "BILKULONLINE By Vishal Gulati Chandigarh, Sept 21: With India warning its citizens to “exercise utmost caution” while in Canada amid",
-            "pubDate": "2023-09-21 15:34:59",
-            "image_url": null,
-            "source_id": "bilkulonline",
-            "source_priority": 13829371,
-            "country": [
-                "india"
-            ],
-            "category": [
-                "business"
-            ],
-            "language": "english"
+            "title": "Solheim Cup: expect fireworks in Europe’s bid for historic triumph",
+            "description": "Captain bullish on hosts’ chances of winning third successive transatlantic joust for the first time but US are keen to spoil party",
+            "content": "Suzann Pettersen’s Solheim Cup experiences suggest her captaincy is unlikely to prove dull. At Finca Cortesin, Pettersen leads a European side who are seeking to create history by winning the transatlantic joust three times in a row for the first tim... [4795 chars]",
+            "url": "https://www.theguardian.com/sport/2023/sep/21/suzann-pettersen-solheim-cup-europe-us-ladies-golf",
+            "image": "https://i.guim.co.uk/img/media/b081e7553028da65f540e375b4ae59b79dfd49a0/0_0_5509_3306/master/5509.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=c02558dc5e117192663f9871a533883d",
+            "publishedAt": "2023-09-21T18:37:00Z",
+            "source": {
+                "name": "The Guardian",
+                "url": "https://www.theguardian.com"
+            }
         },
         {
-            "article_id": "14282b093619a062cc9d2cbadd9b921e",
-            "title": "Storage in South India reservoirs a cause for concern",
-            "link": "https://www.thehindubusinessline.com/economy/agri-business/storage-in-south-india-reservoirs-a-cause-for-concern/article67331178.ece",
-            "keywords": null,
-            "creator": null,
-            "video_url": null,
-            "description": "Water level in 150 major reservoirs improves but still below last 10 years’ average",
-            "content": "By Subramani Ra Mancombu Comments READ LATER The water storage level in key reservoirs in South India continue to be a cause for concern even as the levels in major 150 ones across the country are below the average level of the last 10 years. Data from the Central Water Commission (CWC) show that the storage in major reservoirs increased to 71 per cent of capacity at 126.463 billion cubic meters (BCM) from 113.417 BCM (63 per cent of capacity) on August 31 — thanks to the South-West monsoon turning active again this month. But the level is lower than the last 10 years’ average of 137 BCM (81 per cent). A year ago, the storage was 157.086 BCM (92 per cent), the CWC said in its weekly bulletin. The levels are low in view of a truant south-west monsoon which has resulted in a 7 per cent rainfall deficiency. The deficiency is 20 per cent in eastern parts and 11 per cent in the South, which reflects on the storage. The major concern is the level in the southern river basins. The level was 57.55 per cent lower than the last 10 years’ average in the Cauvery basin, while it was nearly 65 per cent in the Pennar basin. The storage in the river basins from Tadri to Kanyakumari was down by 44.5 per cent compared to the last decade’s average and it was about 30 per cent in the Krishna basin. The level in Godavari is some six per cent higher. The water level in east flowing river basins between Mahanadi and Pennar was 50.5 per cent lower than the last 10 year’s average. In all these cases, the level is lower compared with August 31, though it has improved in the case of east-flowing rivers. State-wise, the level in Bihar’s only reservoir is 95 per cent below normal (-66 per cent on August 31), while the situation in West Bengal has turned grim with the storage being 41 per cent lower than normal (-1 per cent). In the South, barring Kerala, the storage situation has deteriorated since August 31. Tamil Nadu’s level has dropped to 61 per cent below normal from 52 per cent, while Karnataka’s has slipped to 29 per cent from 22 per cent. The storage in Andhra has dropped to 48 per cent below normal from 42 per cent. In the west, the water level in Gujarat has improved by 16 percentage points to 37 per cent above normal, while it has declined in Maharashtra to 10 per cent below normal from 8 per cent. The reservoir level in South India will be the key to the fortunes of paddy and pulses during the rabi season. However, global models forecast good rains for the region between September and December. In the north, there has been a prolonged dry phase this month. This has lowered the storage in Punjab to 6 per cent below normal from 4 per cent above normal on August 31. The situation in Rajasthan and Himachal have improved during this period. East India is emerging as another region of concern with the level declining in West Bengal, Nagaland, Tripura and Assam. However, the situation has improved in Odisha and Jharkhand. In Central India, though the water level has improved in Uttar Pradesh, it is still 36 per cent below normal, but the situation has improved in Madhya Pradesh, thanks to recent rains. The situation will likely improve further as the south-west monsoon has continued to lash many parts of the country this week. Comments",
-            "pubDate": "2023-09-21 14:57:50",
-            "image_url": null,
-            "source_id": "thehindubusinessline",
-            "source_priority": 40538125,
-            "country": [
-                "india"
-            ],
-            "category": [
-                "business"
-            ],
-            "language": "english"
+            "title": "US Congress split over Ukraine funding as Zelenskyy visits Washington",
+            "description": "Democrats say Republican opposition to more aid could be ‘devastating’ for Kyiv’s war effort",
+            "content": "We’ll send you a myFT Daily Digest email rounding up the latest War in Ukraine news every morning.\nUkrainian president Volodymyr Zelenskyy took his case for more Ukraine aid to the US Congress on Thursday, as a looming federal government shutdown and... [3678 chars]",
+            "url": "https://www.ft.com/content/71da1b74-1566-48f3-9b1a-9573ca0a494f",
+            "image": "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fwww.ft.com%2F__origami%2Fservice%2Fimage%2Fv2%2Fimages%2Fraw%2Fhttps%253A%252F%252Fd1e00ek4ebabms.cloudfront.net%252Fproduction%252Fab98d3f2-947f-4102-9856-fe6abab90643.jpg%3Fsource%3Dnext-article%26fit%3Dscale-down%26quality%3Dhighest%26width%3D700%26dpr%3D1?source=next-opengraph&fit=scale-down&width=900",
+            "publishedAt": "2023-09-21T17:19:11Z",
+            "source": {
+                "name": "Financial Times",
+                "url": "https://www.ft.com"
+            }
         },
         {
-            "article_id": "a1db50824e34682d68823cd71a7d296b",
-            "title": "Govt asks mills to sell 13 lakh tonnes of October quota sugar immediately",
-            "link": "https://www.thehindubusinessline.com/economy/agri-business/govt-asks-mills-to-sell-13-lakh-tonnes-of-october-quota-sugar-immediately/article67330684.ece",
-            "keywords": null,
-            "creator": null,
-            "video_url": null,
-            "description": "Move to cool prices; Centre asks sugar mills, trade to disclose stock position every Monday llocates mill-wise sugar quota every month for sales in domestic market.",
-            "content": "By Prabhudatta Mishra Comments READ LATER The Centre has allowed sugar mills to start selling their October quota produce in advance by asking them to use a total of 13 lakh tonnes (lt) with immediate effect. to rein in rising domestic prices. In a separate order, the Food Ministry has asked sugar mills, traders, wholesalers, retailers including big chains, to immediately disclose their stock position on a specific portal and update it every Monday. Though October quota for domestic sales by each sugar mill will soon be allotted by the Food Ministry, the first tranche has been decided based on their past sales record, sources said. According to Consumer Affairs Ministry data, the all-India average wholesale price of sugar has reached ₹4,054.69/quintal as of Thursday, up by 1 per cent in a month and by 3 per cent from a year- ago. However, the average retail price was ₹43.73/kg on September 21, ₹43.29/kg a month ago and ₹42.57/kg a year ago. With an estimated stock of 83 lt at the end of August and crushing season likely to start earlier than normal Diwali time, India has sufficient stocks for domestic consumption with absolutely no shortage for festivals, the Ministry said. The first tranche of domestic sales quota of October has been allowed to be sold with immediate effect while more quota will be released in due course, it said. “Since there is no deadline for selling the quota and rather, it is a relaxation to sell the monthly quota from 30 days to 40 days now, mills will think twice before rushing to sell the sugar at earliest, particularly when there is bullishness in the market,” said a commodity analyst. The government should have encouraged mills through incentives such as higher sales quota later to sell the sugar in a reduced window so that availability is increased, the analyst said. Also read: Sugar stocks zoom on expectations of fall in output pushing up prices The ministry issued an order making it mandatory for traders/wholesaler, retailer, big chain retailer and processors to disclose stock position of sugar on a specific portal -- https://esugar.nic.in immediately and update it every Monday. “This mandatory weekly stock disclosure for these entities is another proactive step in efforts to maintain a balanced and fair sugar market. By preventing hoarding and speculation, the government is aiming to ensure that sugar remains affordable for all consumers,” food ministry said in a statement. This proactive measure empowers regulatory authorities to closely monitor stock levels and take prompt action against any potential market manipulation, an official spokesperson said. Also read: World stares at 2 million tonnes sugar deficit, says ISO It will also provide real-time data on sugar stocks and help the government to make further policy decisions, as and when need arises, to mitigate the impact of rumours (of rising sugar prices) on consumers and the industry, the official said. Appealing sugar mills and traders to adhere to the monthly domestic quota norms, the government has warned them of strict action for any violation. According to Indian Sugar Mills Association (ISMA) forecast, sugar production is likely to be 317 lt, excluding 45 lt diversion towards ethanol during 2023-24 season (October-September). The output for the current season is estimated at 328 lt, excluding diversion of 42 lt for ethanol. The annual demand is pegged at 275-280 lt. Comments",
-            "pubDate": "2023-09-21 14:51:19",
-            "image_url": null,
-            "source_id": "thehindubusinessline",
-            "source_priority": 40538125,
-            "country": [
-                "india"
-            ],
-            "category": [
-                "business"
-            ],
-            "language": "english"
+            "title": "Russia bombards power facilities across Ukraine ahead of Zelensky's meeting with Biden",
+            "description": "Ukraine endured a deadly nationwide Russian missile barrage targeting energy facilities in Kyiv and other cities on Thursday, just hours before President Volodymyr Zelensky was set to meet US President Joe Biden at the White House.",
+            "content": "Kyiv, Ukraine CNN —\nUkraine endured a deadly nationwide Russian missile barrage targeting energy facilities in Kyiv and other cities on Thursday, just hours before President Volodymyr Zelensky was set to meet US President Joe Biden at the White House... [3750 chars]",
+            "url": "https://www.cnn.com/2023/09/21/europe/ukraine-russian-infrastructure-attacks-intl/index.html",
+            "image": "https://media.cnn.com/api/v1/images/stellar/prod/230921094725-01-kyiv-1000-hours-air-raid-sirens.jpg?c=16x9&q=w_800,c_fill",
+            "publishedAt": "2023-09-21T17:13:00Z",
+            "source": {
+                "name": "CNN",
+                "url": "https://www.cnn.com"
+            }
         },
         {
-            "article_id": "1522514b40c4a11a6b3de58f244c79bc",
-            "title": "GAVL’s crop protection business eyes maize, rice to expand portfolio",
-            "link": "https://www.thehindubusinessline.com/economy/agri-business/gavls-crop-protection-business-eyes-maize-rice-to-expand-portfolio/article67330770.ece",
-            "keywords": null,
-            "creator": null,
-            "video_url": null,
-            "description": "Launches PYNA brand for cotton herbicides; R&D division develops new products in partnership with Nissan Chemical Corp",
-            "content": "By Vishwanath Kulkarni Comments READ LATER After consolidating its position in crops such as cotton and chillies, the crop protection business of Godrej Agrovet Ltd (GAVL) is eyeing major field crops – maize and rice to expand its product portfolio. “Maize and rice are the focus areas for us in the next three years. We are working on a novel herbicide for maize and expect to launch it in kharif next year,” said Rajavelu NK, CEO, Crop Protection Business, GAVL. Also the company is working on two more products – a herbicide and insecticide for rice, which are in different stages of registrations and will be launched over next two to three years, he added. The R&D division of GAVL’s crop protection business is developing these new products leveraging its partnership Nissan Chemical Corporation. Rajavelu said Gracia, an insecticide launched last year in collaboration with Nissan for chillies, is picking up. Rajavelu said the company’s strategy of launching an umbrella brand – PYNA for its cotton herbicide and weed management products — has started yielding results with the sales increasing by almost 1.7 times this year. “Our sales have crossed 1,000 kilolitres this year against 600 kl last year,” he said. In May this year, GAVL launched the umbrella brand for its selective cotton herbicide – pyrithiobac sodium, bringing all its weed management products – Hitweed, Hitweed Maxx and Maxxcot under the PYNA Brand. It also extended the PYNA brand logo to co-marketers such as Bayer CropScience, Rallis India, Dhanuka Agritech, PI Industries and IndoFil Industries. The crop protection business registered a 34 per cent growth in Q1 revenues at ₹264 crore over same period last year’s ₹198 crore. The crop protection business accounted for about 14.3 per cent of GAVL’s topline during Q1. GAVL’s Combine, a plant growth regulator for grapes has a 70 per cent market share, while Hanabi, an insecticide launched in collaboration with Nissan is for controlling mites in tea and chilli. “Our top five to six products such as PYNA, Gracia, Hanabi and Combine among others account for about 60 per cent of our revenues,” he said. Though the sales of crop protection products such as PYNA and Gracia had slowed down during August, the revival of rains in September should boost the sales, he said. Comments",
-            "pubDate": "2023-09-21 14:51:18",
-            "image_url": null,
-            "source_id": "thehindubusinessline",
-            "source_priority": 40538125,
-            "country": [
-                "india"
-            ],
-            "category": [
-                "business"
-            ],
-            "language": "english"
+            "title": "McCarthy defeated again by hard-right House Republicans as shutdown looms",
+            "description": "Conference fails to approve procedural motion to take up defense spending bill as members clash over government spending levels",
+            "content": "The House Republican speaker, Kevin McCarthy, was dealt his second humiliating defeat of the week on Thursday, when his conference again failed to approve a procedural motion as members continued to clash over government spending levels with just day... [5156 chars]",
+            "url": "https://www.theguardian.com/us-news/2023/sep/21/government-shutdown-latest-spending-vote-mccarthy-republicans",
+            "image": "https://i.guim.co.uk/img/media/dff71fcdd369aa13bdf536a70691d94ad25f9402/0_0_5441_3265/master/5441.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=6f36fbc6f522e6db46e4735b027d94b7",
+            "publishedAt": "2023-09-21T16:46:00Z",
+            "source": {
+                "name": "The Guardian US",
+                "url": "https://www.theguardian.com"
+            }
         },
         {
-            "article_id": "6517fc97138a40d1f8c0eaf12d6259ae",
-            "title": "Whatfix Positioned as a Leader for the fourth consecutive year",
-            "link": "https://bilkulonline.com/2023/09/21/whatfix-positioned-as-a-leader-for-the-fourth-consecutive-year/",
-            "keywords": [
-                "Business",
-                "Featured",
-                "Technology"
-            ],
-            "creator": [
-                "BILKUL ONLINE"
-            ],
-            "video_url": null,
-            "description": "BILKULONLINE Bangalore/Ahmedabad, Sept 21: Whatfix, the global leader in digital adoption platforms, today announced that it has been named a The post Whatfix Positioned as a Leader for the fourth consecutive year appeared first on Bilkul Online.",
-            "content": "BILKULONLINE By Vishal Gulati Chandigarh, Sept 21: With India warning its citizens to “exercise utmost caution” while in Canada amid",
-            "pubDate": "2023-09-21 14:30:54",
-            "image_url": null,
-            "source_id": "bilkulonline",
-            "source_priority": 13829371,
-            "country": [
-                "india"
-            ],
-            "category": [
-                "business"
-            ],
-            "language": "english"
+            "title": "GOP hardliners sink Pentagon bill in another blow for McCarthy",
+            "description": "The House on Thursday has voted down a rule that would have advanced a Defense Department bill, another stumbling block for Speaker Kevin McCarthy and House Republican leadership ahead of a looming government shutdown deadline.",
+            "content": "CNN —\nThe House on Thursday has voted down a rule that would have advanced a Defense Department bill, another stumbling block for Speaker Kevin McCarthy and House Republican leadership ahead of a looming government shutdown deadline.\nThe final vote w... [3118 chars]",
+            "url": "https://www.cnn.com/2023/09/21/politics/house-government-shutdown-negotiations-latest/index.html",
+            "image": "https://media.cnn.com/api/v1/images/stellar/prod/230914153527-03-kevin-mccarthy-091423.jpg?c=16x9&q=w_800,c_fill",
+            "publishedAt": "2023-09-21T16:37:00Z",
+            "source": {
+                "name": "CNN",
+                "url": "https://www.cnn.com"
+            }
         },
         {
-            "article_id": "9f4aefac3aae0dd97ab4e203d3516e6e",
-            "title": "AJIO announces All Stars Sale",
-            "link": "https://bilkulonline.com/2023/09/21/ajio-announces-all-stars-sale/",
-            "keywords": [
-                "Business",
-                "Featured",
-                "General"
-            ],
-            "creator": [
-                "BILKUL ONLINE"
-            ],
-            "video_url": null,
-            "description": "AJIO adds 500 New Brands and Expands to over 1.5 million Styles AJIO All Stars Sale The post AJIO announces All Stars Sale appeared first on Bilkul Online.",
-            "content": "BILKULONLINE By Vishal Gulati Chandigarh, Sept 21: With India warning its citizens to “exercise utmost caution” while in Canada amid",
-            "pubDate": "2023-09-21 14:14:38",
-            "image_url": null,
-            "source_id": "bilkulonline",
-            "source_priority": 13829371,
-            "country": [
-                "india"
-            ],
-            "category": [
-                "business"
-            ],
-            "language": "english"
+            "title": "Fentanyl, Cocaine Drug Overdose",
+            "description": "Angus Cloud died from an accidental overdose of fentanyl, cocaine and methamphetamine, the Alameda County Coroner’s Office confirmed to Variety.",
+            "content": "Angus Cloud died from an accidental overdose of fentanyl, cocaine, methamphetamine and more, the Alameda County Coroner’s Office confirmed to Variety on Thursday.\nHis cause of death was an “acute intoxication due to combined effects of methamphetamin... [1490 chars]",
+            "url": "https://variety.com/2023/tv/news/angus-cloud-cause-of-death-overdose-drugs-1235684153/",
+            "image": "https://variety.com/wp-content/uploads/2023/04/GettyImages-1388134712-e1681499603823.jpg?w=1000&h=563&crop=1",
+            "publishedAt": "2023-09-21T16:27:00Z",
+            "source": {
+                "name": "Variety",
+                "url": "https://variety.com"
+            }
         },
         {
-            "article_id": "038b44caab636cd570d8a3f3a9c1378f",
-            "title": "Amazon India Launches Multi-Channel Fulfilment For D2C Brands, Other Sellers",
-            "link": "https://inc42.com/buzz/amazon-india-launches-multi-channel-fulfilment-for-d2c-brands-other-sellers/",
-            "keywords": [
-                "News",
-                "B2B-B2C"
-            ],
-            "creator": [
-                "Sudeshna Mitra"
-            ],
-            "video_url": null,
-            "description": "Ahead of the festive season, Amazon India has launched multi-channel fulfilment (MCF) for sellers, including D2C brands and retailers, to…",
-            "content": "Multi-channel fulfilment will enable sellers to utilise Amazon’s pan-India presence, fulfilment centres and logistics network to handle orders received on various channels The MCF will make it easy for sellers to create orders for their off-Amazon shoppers, track them, and generate tax invoices, Amazon India said The launch comes at a time when Amazon, its rival Flipkart, and other ecommerce marketplaces are gearing up for the upcoming festive season Ahead of the festive season, Amazon India has launched multi-channel fulfilment (MCF) for sellers, including D2C brands and retailers, to help them handle customer orders received from various channels. The MCF will enable sellers to utilise Amazon’s pan-India presence, fulfilment centres and logistics network to handle orders received on various channels, including their own websites. “MCF makes it easy for sellers to create orders for their off-Amazon shoppers, track them, and generate tax invoices, while ensuring swift shipping and faster delivery,” Amazon said in a statement. The new offering is aimed at enabling sellers to expand their market reach across India by leveraging Amazon’s last-mile coverage of over 20,000+ pin codes in the country. Commenting on the launch, Vivek Somareddy, Amazon India’s vice president for fulfilment channels and global trade, said, “The challenges of digitisation, limited reach, and productivity constraints often hamper the expansion of medium and small-scale brands, along with other challenges like inventory tracking and high shipping costs. Multi-channel fulfilment addresses these challenges through comprehensive and best-in-class solutions for all their fulfilment needs.” With the MCF, the sellers will be able to automate their off-Amazon orders, thus removing complexities and simplifying the entire order fulfilment process. Sellers accessing the facility will also be able to enjoy flexible, affordable, and scalable storage and fulfilment solutions, including inbound transportation, labelling, storage, order management, pick-pack and shipping services. The launch comes at a time when Amazon, its rival Flipkart, and other ecommerce marketplaces and brands are gearing up for the upcoming festive season. Last week, Amazon launched generative AI capabilities that will allow sellers to create better product descriptions, titles and listing details. Meanwhile, Flipkart is also not leaving any stone unturned to make the most of the festive season. Having crossed the 1.4 Mn sellers mark , the Amazon rival launched a metaverse-powered immersive virtual shopping feature called Flipverse to boost customer experience. As per a report by consulting firm Redseer, nearly 140 Mn shoppers are expected to make online purchases during the festive season sale this year and the gross merchandise value of ecommerce platforms is estimated to grow 18-20% to INR 90,000 Cr.",
-            "pubDate": "2023-09-21 14:10:42",
-            "image_url": null,
-            "source_id": "inc42",
-            "source_priority": 140464,
-            "country": [
-                "india"
-            ],
-            "category": [
-                "business"
-            ],
-            "language": "english"
+            "title": "Next major Windows update is available September 26, with new AI (and not-AI) features",
+            "description": "Passkeys, Paint, Backup, and other app updates make this a significant release.",
+            "content": "NEW YORK—Microsoft will be releasing its next major Windows update with \"over 150 new features\" later this month, the company announced in a presentation today. The update furthers Microsoft's crusade to tuck generative AI into all of its products, t... [3601 chars]",
+            "url": "https://arstechnica.com/gadgets/2023/09/next-major-windows-update-is-available-september-26th-with-new-ai-and-not-ai-features/",
+            "image": "https://cdn.arstechnica.net/wp-content/uploads/2023/09/IMG_8402-760x380.jpeg",
+            "publishedAt": "2023-09-21T16:21:43Z",
+            "source": {
+                "name": "Ars Technica",
+                "url": "https://arstechnica.com"
+            }
         },
         {
-            "article_id": "5acb88459e835cd65332a27d6e1b11a3",
-            "title": "IPL ecosystem value rises from Rs 87,000 crore to Rs 92,500 crore; Shows 6.3 percent growth",
-            "link": "https://kalingatv.com/business/ipl-ecosystem-value-rises-from-rs-87000-crore-to-rs-92500-crore-shows-6-3-percent-growth/",
-            "keywords": [
-                "Business",
-                "IPL"
-            ],
-            "creator": [
-                "IANS"
-            ],
-            "video_url": null,
-            "description": "New Delhi: The IPL ecosystem value has risen from Rs 87,000 crore to Rs 92,500 crore, marking an increase of around 6.3 per cent, as per a report by D & P India Advisory Services. In US dollar terms, this translates to a growth from $10.9 billion to $11.2 billion, representing an increase of approximately […] The post IPL ecosystem value rises from Rs 87,000 crore to Rs 92,500 crore; Shows 6.3 percent growth appeared first on KalingaTV.",
-            "content": "The IPL ecosystem value has risen from Rs 87,000 crore to Rs 92,500 crore, marking an increase of around 6.3 per cent, as per a report by D & P India Advisory Services. In US dollar terms, this translates to a growth from $10.9 billion to $11.2 billion, representing an increase of approximately 3.3 per cent. The league has always been a spectacle of cricket, business and entertainment. And this year was no exception, as the league continued to captivate audiences, both on television and digital platforms, the report said. According to the Broadcast Audience Research Council (BARC) India, the IPL telecast on the Star Sports Network attracted a staggering 505 million viewers with an impressive watch time of 427.1 billion minutes. On the digital front, JioCinema reported that 449 million viewers tuned in on its platform, with over 126 million viewers choosing connected TV options to savour the IPL action. The inaugural edition of the Women’s Premier League (WPL) boasts a remarkable valuation of Rs 1,250 crore, equating to approximately $150 million. This significant valuation was primarily driven by the league’s substantial media and title rights deals. A particularly striking indicator of the WPL’s anticipated success is the cumulative sale proceeds of the franchises, amounting to a staggering Rs 4,670 crore. This substantial investment by team owners signals their confidence in the league’s future trajectory. They foresee the WPL not only thriving, but also offering significant financial returns in the coming years. Prev News Next News",
-            "pubDate": "2023-09-21 13:44:31",
-            "image_url": null,
-            "source_id": "kalingatv",
-            "source_priority": 474757,
-            "country": [
-                "india"
-            ],
-            "category": [
-                "business"
-            ],
-            "language": "english"
+            "title": "In ‘American Horror Story,’ Kim Kardashian Skims the Surface",
+            "description": "In her debut on Wednesday night, Kardashian seemed to treat the series with the same unblinking resolve she applies to any business venture.",
+            "content": "Kim Kardashian is a reality star, a tabloid sensation, a prison-reform advocate, a beauty and shapewear mogul and a former video vixen. As of Wednesday night, she is also a member of the Ryan Murphy extended universe, with a series regular role in FX... [1187 chars]",
+            "url": "https://www.nytimes.com/2023/09/21/arts/television/kim-kardashian-american-horror-story-delicate.html",
+            "image": "https://static01.nyt.com/images/2023/09/21/arts/21kardashian/21kardashian-facebookJumbo.jpg",
+            "publishedAt": "2023-09-21T16:15:59Z",
+            "source": {
+                "name": "The New York Times",
+                "url": "https://www.nytimes.com"
+            }
         },
         {
-            "article_id": "fc4a0f716e6d0618a09c5d3be089ecff",
-            "title": "Oil prices to rise further? Russia halts petrol and diesel exports",
-            "link": "https://www.news9live.com/business/commodities/oil-prices-to-rise-further-russia-halts-petrol-and-diesel-exports-2294411",
-            "keywords": [
-                "Commodities"
-            ],
-            "creator": [
-                "Ishaan Mittal"
-            ],
-            "video_url": null,
-            "description": "Russia has halted exports of petrol and diesel in a move to stabilise domestic fuel prices, dealing global crude oil prices. Brent crude prices spiked to $93.15 per barrel at 12:30 pm GMT from $93.08 per barrel at the start of day’s trade.",
-            "content": "New Delhi: Russia has halted exports of petrol and diesel in a move to stabilise domestic fuel prices, dealing global crude oil prices. Brent crude prices spiked to $93.15 per barrel at 12:30 pm GMT, up from $93.08 per barrel at the start of day’s trade but lower than $93.53 per barrel on September 20. The temporary ban on fuel exports will come into effect immediately, according to an official release. #505050″>Resolution of September 21, 2023 No. 1537 #505050″>Resolution of September 21, 2023 No. 1537 The move is aimed at curbing grey motor fuel exports and ensuring adequate availability in the domestic market, according to the notification. Also read: ‘Cigarette demand likely to rise by 7-9 per cent in 2023-24’ | Here’s why Impact on India The decision is expected to hurt Indian oil refiners since the country has been one of the largest importers of Russian crude oil with July volumes standing at 1.92 million barrels per day, up 5.2 per cent over June imports. Russian oil imports accounted for 41.9 per cent of India’s total oil imports in July. Why has Russia halted fuel exports? The country has been struggling with soaring fuel prices which was accelerated by a rebound in the country’s growth rate. The rise in fuel exports that may inhabit a grey area in trade was also cited as a reason behind the price surge, Russia’s official news agency RIA Novosti reported, citing experts. The country’s petrol and diesel prices have surged 9.4 per cent since the start of this year as of September 18. Also read: Indian Railways raises compensation 10 times for train accidents and injuries To plug this loophole, Russia’s energy ministry has proposed a decree to the country’s President as well as the Russian cabinet. The decree restricts the right to export fuel to recognised oil producers, according to RIA Novosti . Effect on crude oil prices Crude oil prices are back above $90 per barrel levels after remaining near $80 per barrel levels during the first half of 2023. This is owing to the decision by oil producing grouping OPEC+ led by Saudi Arabia to cut oil production. Also read: Onion traders in Nashik go on indefinite strike; concerns over potential rise in retail prices Petrol and diesel prices in key Indian cities today Petrol and diesel prices in India have been capped by the Centre since last year to curb inflation. The prices of petrol and diesel in key cities today are as follows: Petrol Delhi Rs 96.72 per litre Mumbai Rs 106.31 per litre Kolkata Rs 106.03 per litre Chennai Rs 102.63 per litre Diesel Delhi Rs 89.62 per litre Mumbai Rs 94.27 per litre Kolkata Rs 92.76 per litre Chennai Rs 94.24 per litre",
-            "pubDate": "2023-09-21 12:44:00",
-            "image_url": null,
-            "source_id": "news9live",
-            "source_priority": 193096,
-            "country": [
-                "india"
-            ],
-            "category": [
-                "business"
-            ],
-            "language": "english"
+            "title": "Oklahoma executes death row inmate Anthony Sanchez",
+            "description": "Oklahoma executed death row inmate Anthony Sanchez on Thursday at the state penitentiary in McAlester.",
+            "content": "Sanchez was sentenced to death after being convicted of the 1996 murder of University of Oklahoma student Juli Busken, who was a 21-year-old ballerina\nJUST A FEW MINUTES. THANKS, JONATHAN. IN HALF AN HOUR, THE STATE OF OKLAHOMA IS SET TO EXECTE 44 YE... [4392 chars]",
+            "url": "https://www.koco.com/article/oklahoma-anthony-sanchez-execution-juli-busken/45239113",
+            "image": "https://kubrick.htvapps.com/vidthumb/0ac78740-c88b-4acd-ac71-440b58a20533/af59e428-917d-45e8-92b0-57ca12f6051f.jpg?crop=1.00xw:1.00xh;0,0&resize=1200:*",
+            "publishedAt": "2023-09-21T15:54:00Z",
+            "source": {
+                "name": "KOCO Oklahoma City",
+                "url": "https://www.koco.com"
+            }
         },
         {
-            "article_id": "695b203134ae3868e335222ba008aa8e",
-            "title": "Amazon launches multi-channel fulfilment for sellers, retailers in India",
-            "link": "https://kalingatv.com/business/amazon-launches-multi-channel-fulfilment-for-sellers-retailers-in-india/",
-            "keywords": [
-                "Business",
-                "amazon"
-            ],
-            "creator": [
-                "IANS"
-            ],
-            "video_url": null,
-            "description": "Bengaluru: Amazon on Thursday launched multi-channel fulfilment (MCF) for sellers including direct-to-consumer (D2C) brands, retailers and manufacturers in India. With this, sellers can use a single inventory source which is in Amazon’s fulfillment centres to fulfill all their orders. Amazon’s MCF offers a comprehensive solution at an introductory price as low as Rs 59 per […] The post Amazon launches multi-channel fulfilment for sellers, retailers in India appeared first on KalingaTV.",
-            "content": "Amazon on Thursday launched multi-channel fulfilment (MCF) for sellers including direct-to-consumer (D2C) brands, retailers and manufacturers in India. With this, sellers can use a single inventory source which is in Amazon’s fulfillment centres to fulfill all their orders. Amazon’s MCF offers a comprehensive solution at an introductory price as low as Rs 59 per order to level the playing field for all sellers. Through MCF, sellers can leverage Amazon’s extensive coverage of 100 per cent of India’s serviceable pin codes (over 20,000), opening up new business opportunities, the e-commerce giant said in a statement. “The challenges of digitisation, limited reach, and productivity constraints often hamper the expansion of medium and small-scale brands, along with other challenges like inventory tracking and high shipping costs,” said Vivek Somareddy, Vice President, Fulfilment Channels and Global Trade, Amazon India. Multi-Channel Fulfilment addresses these challenges through comprehensive and best-in-class solution for all their fulfilment needs. “It allows sellers to focus on core business activities like product development, marketing, and customer service,” Somareddy added. MCF makes it easy for sellers to create orders for their off-Amazon shoppers, track them, and generate tax invoices, while ensuring swift shipping and faster delivery. With MCF, sellers can automate their off-Amazon orders, thus removing complexities and simplifying the entire order fulfilment process. Sellers will also benefit from Fulfilment by Amazon — a flexible, affordable, and scalable storage and fulfilment solution spanning across plethora of services, said Amazon. “This innovative fulfillment solution ensures super-fast delivery, 24×7 fulfilment of customer orders, and removes the need for inventory pooling for separate sales channel,” said Somareddy. Prev News Next News",
-            "pubDate": "2023-09-21 11:49:01",
-            "image_url": null,
-            "source_id": "kalingatv",
-            "source_priority": 474757,
-            "country": [
-                "india"
-            ],
-            "category": [
-                "business"
-            ],
-            "language": "english"
+            "title": "Ukraine leader Zelenskyy to meet with Biden, Congress",
+            "description": "Biden will welcome Zelenskyy to the White House on Thursday as the embattled leader seeks to shore up additional support for his war-torn country.",
+            "content": "Ukraine's President Volodymyr Zelenskyy listens to U.S. President Joe Biden address the 78th Session of the U.N. General Assembly in New York City, September 19, 2023.\nWASHINGTON — President Joe Biden will welcome Ukrainian President Volodymyr Zelens... [1317 chars]",
+            "url": "https://www.cnbc.com/2023/09/21/ukraine-leader-zelenskyy-to-meet-with-biden-congress.html",
+            "image": "https://image.cnbcfm.com/api/v1/image/107304517-1695306377818-gettyimages-1693804830-wm_10710_zhimflao.jpeg?v=1695315551&w=1920&h=1080",
+            "publishedAt": "2023-09-21T15:07:15Z",
+            "source": {
+                "name": "CNBC",
+                "url": "https://www.cnbc.com"
+            }
         }
-    ],
-    "nextPage": "1695296941557976885"
+    ]
 }

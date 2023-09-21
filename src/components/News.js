@@ -1,4 +1,3 @@
-/* https://gnews.io/api/v4/top-headlines?country=in&category=general&apikey=78dac8543e695f5987ce037893e7ef43&max=6 */
 import React, { useEffect, useState } from 'react'
 import NewsItem from './NewsItem'
 import Spinner from './Spinner';
@@ -8,7 +7,6 @@ import InfiniteScroll from "react-infinite-scroll-component";
 const News = (props) => {
     const [articles, setArticles] = useState([])
     const [loading, setLoading] = useState(true)
-    // const [page, setPage] = useState(1)
     const [totalResults, setTotalResults] = useState(0)
 
     const capitalizeFirstLetter = (string) => {
@@ -17,8 +15,6 @@ const News = (props) => {
 
     const updateNews = async () => {
         props.setProgress(10);
-        // const url = `https://newsapi.org/v2/top-headlines?country=${props.country}&category=${props.category}&apiKey=9d5f82c7e3884282801678f465cada24&page=${page}&pageSize=${props.pageSize}`;
-        // const url = `https://newsdata.io/api/1/news?country=${props.country}&category=${props.category}&apikey=pub_298559fccd35e8bea118deb4f875400390b33`
         const url = `https://gnews.io/api/v4/top-headlines?country=${props.country}&category=${props.category}&apikey=78dac8543e695f5987ce037893e7ef43`
         setLoading(true)
         let data = await fetch(url);
@@ -34,12 +30,10 @@ const News = (props) => {
     useEffect(() => {
         document.title = `${capitalizeFirstLetter(props.category)} - IndiaBizTimes`;
         updateNews();
-        /* eslint-disable */
     }, [])
 
     const fetchMoreData = async () => {
         const url = `https://gnews.io/api/v4/top-headlines?country=${props.country}&category=${props.category}&apikey=78dac8543e695f5987ce037893e7ef43`
-        // setPage(page + 1);
         let data = await fetch(url);
         let parsedData = await data.json()
         setArticles(articles.concat(parsedData.articles))

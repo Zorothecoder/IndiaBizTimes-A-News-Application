@@ -1,5 +1,4 @@
 // News item component deatils inside layout
-
 import React from 'react'
 
 const NewsItem = (props) => {
@@ -17,7 +16,6 @@ const NewsItem = (props) => {
                     <h5 className={`card-title text-${props.mode==='light'?'dark':'light'}`}>{title}...</h5>
                     <p className={`card-text text-${props.mode==='light'?'dark':'light'}`}>{description}</p>
                     <p className="card-text"><small className={`text-${props.mode==='light'?'dark':'light'}`}>By {!author ? "unknown" : author} on {new Date(date).toGMTString()}</small></p>
-                    {/* <a href={newsUrl} className={`btn btn-sn btn-dark bg-${props.mode==='light'?'dark':'ligh'}`}>Read More</a> */}
                     <a href={newsUrl} className={`btn btn-sn btn-dark bg-${props.mode === 'light' ? 'dark' : 'light'}  text-${props.mode}`}>Read More</a>
 
                 </div>

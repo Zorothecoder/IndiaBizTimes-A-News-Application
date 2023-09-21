@@ -7,8 +7,6 @@ import { BrowserRouter as Router, Routes, Route } from "react-router-dom";
 
 const App = () => {
   const [mode, setMode] = useState("light");
-  // const pageSize = 6;
-  // const apiKey = process.env.REACT_APP_NEWS_API
   const [progress, setProgress] = useState(0);
 
   const toggleMode = () => {
@@ -16,14 +14,12 @@ const App = () => {
       setMode('dark');
       document.body.style.backgroundColor = 'rgb(33,37,41)';
       document.querySelector('nav').style.borderBottom = '1px solid white';
-      // showAlert("Dark Mode Enabled", "success");
       document.title = 'Textutils-Dark Mode';
     }
     else {
       setMode('light');
       document.body.style.backgroundColor = 'white';
       document.querySelector('nav').style.borderBottom = 'none';
-      // showAlert("Light Mode Enabled", "success");
       document.title = 'Textutils-Light Mode';
     }
   };
@@ -34,14 +30,14 @@ const App = () => {
         <NavBar title = "IndiaBizTimes" mode={mode} toggleMode={toggleMode}/>
         <LoadingBar heigth='3' color='#f11946' progress={progress} />
         <Routes>
-          <Route path='/IndiaBizTimes-A-News-Application' element={<News setProgress={setProgress}  key='general'       mode={mode}  country='in' category='general'/>}></Route>
-          <Route path='/business'                         element={<News setProgress={setProgress}  key='business'      mode={mode}  country='in' category='business'/>}></Route>
-          <Route path='/entertainment'                    element={<News setProgress={setProgress}  key='entertainment' mode={mode}  country='in' category='entertainment'/>}></Route>
-          <Route path='/science'                          element={<News setProgress={setProgress}  key='science'       mode={mode}  country='in' category='science'/>}></Route>
-          <Route path='/sports'                           element={<News setProgress={setProgress}  key='sports'        mode={mode}  country='in' category='sports'/>}></Route>
-          <Route path='/health'                           element={<News setProgress={setProgress}  key='health'        mode={mode}  country='in' category='health'/>}></Route>
-          <Route path='/technology'                       element={<News setProgress={setProgress}  key='technology'    mode={mode}  country='in' category='technology'/>}></Route>
-          <Route path='/world'                            element={<News setProgress={setProgress}  key='world'         mode={mode}  country='in' category='world'/>}></Route>
+          <Route path='/IndiaBizTimes-A-News-Application' element={<News setProgress={setProgress} key='general' mode={mode} country='in' category='general'/>}></Route>
+          <Route path='/business' element={<News setProgress={setProgress} key='business' mode={mode} country='in' category='business'/>}></Route>
+          <Route path='/entertainment' element={<News setProgress={setProgress} key='entertainment' mode={mode} country='in' category='entertainment'/>}></Route>
+          <Route path='/science' element={<News setProgress={setProgress} key='science' mode={mode} country='in' category='science'/>}></Route>
+          <Route path='/sports' element={<News setProgress={setProgress} key='sports' mode={mode} country='in' category='sports'/>}></Route>
+          <Route path='/health' element={<News setProgress={setProgress} key='health' mode={mode} country='in' category='health'/>}></Route>
+          <Route path='/technology' element={<News setProgress={setProgress} key='technology' mode={mode} country='in' category='technology'/>}></Route>
+          <Route path='/world' element={<News setProgress={setProgress} key='world' mode={mode} country='in' category='world'/>}></Route>
         </Routes>
       </Router>
     </div>
